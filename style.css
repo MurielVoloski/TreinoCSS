@@ -1,0 +1,39 @@
+.principal {
+    position: absolute;
+    width: 1255px;
+    height: 429px;
+    background: #1B1A1A;
+    left: 0px;
+    top: 0px;
+
+    padding: 50px 48px 55px 30px;
+}
+
+.blocoUm {
+    width: 555px;
+    height: 387px;
+    left: 30px;
+    top: 50px;
+    background: #A72828;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blocoDois {
+    position: absolute;
+    width: 555px;
+    height: 387px;
+    left: 652px;
+    top: 50px;
+    background: #A72828;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blocoInterno {
+    width: 337px;
+    height: 194px;
+    background: linear-gradient(0deg, #2835A7, #2835A7), #2835A7;
+}
